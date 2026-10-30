@@ -12,6 +12,9 @@
   <a href="https://github.com/Devhubcore">
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
+  <a href="https://pypi.org/project/devhubsesion/">
+    <img src="https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=PyPI&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
 </p>
